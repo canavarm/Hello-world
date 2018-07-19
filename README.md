@@ -1,2 +1,3 @@
 # Hello-world
-Just learning the basics
+
+Astronomer understanding the ways of machine-learning
